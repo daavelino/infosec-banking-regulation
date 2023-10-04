@@ -1,8 +1,8 @@
-# Infosec Regulation
+# Infosec Banking Regulation
 
-### A reference to the regulations guiding Information Security for banking industry in Germany.
+### A (possible incomplete) reference to the regulations guiding Information Security at banking industry in Germany.
 
-- Please refer to the folder [highlights/](highlights/) to an overview on the main points of the regulations regarding Information Security.
+- Please refer to the folder [highlights/](highlights/) where the information security requirements have been highlighted for the corresponding regulations.
 
 ## European Union
 
