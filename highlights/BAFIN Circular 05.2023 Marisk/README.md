@@ -109,5 +109,92 @@ and, where applicable, the internal audit function`.
 3 Staff of the risk control function shall be granted all necessary powers and unrestricted access to all information needed to perform their tasks. In particular, this shall
 include unrestricted access at all times to the institution’s risk data.
 
+### AT 5 Organisational guidelines
 
+3 In particular, the organisational guidelines shall contain the following:
+- (a) rules governing the organisational and operational structure as well as the allocation of tasks, the assignment of competencies, and responsibilities,
+- (b) rules governing the organisation of the risk management and risk control processes,
+- (c) rules governing the procedures, methods and processes for risk data aggregation (in the case of significant institutions),
+- (d) rules governing the internal audit function,
+- (e) rules which ensure observation of legal rules and regulations (eg data protection, compliance),
+- (f) rules governing procedures for outsourced activities and processes,
+- (g) depending on the size of the institution and the nature, scale, complexity and
+riskiness of the business activities, a code of conduct for the staff.
 
+### AT 7 Resources
+#### AT 7.1 Staff
+
+1 The quantity and quality of the institution’s staffing shall be commensurate, in particular, with its internal operational needs, business activities and risk situation. This shall
+also apply to the use of temporary staff.
+
+2 Staff members and their deputies shall possess the expertise and experience needed for their tasks, competencies and responsibilities. Appropriate measures shall be taken to ensure that staff are suitably qualified.
+
+#### AT 7.2 Technical and organisational resources
+2 `The IT systems (hardware and software components), the related IT processes and
+other elements of the information domain` `shall ensure the integrity, availability, authenticity and confidentiality of the data`. To this end, generally established standards
+shall apply to the arrangement of the IT systems and related IT processes; in particular,
+`processes shall be established for appropriately allocating IT access rights to ensure
+that staff have only those rights that they need to perform their particular tasks`; `IT
+access rights may be collated in a role model`. `The suitability of the IT systems and
+related processes shall be regularly reviewed by the responsible organisational unit
+staff and IT staff`.
+
+**Information domain**
+`An information domain includes, for example, business-relevant information, business
+and support processes, IT systems and related IT processes, and network and building
+infrastructures`.
+
+**Standards for IT systems design**
+Such standards include, for example, the IT Grundschutz issued by the Federal Office
+for Information Security (BSI) and the ISO/IEC 270XX international security standards
+developed by the International Organization for Standardization. The adherence to established standards does not mean that standard hardware or software must be used.
+In-house solutions are generally equally permissible.
+
+**IT access rights**
+The IT access rights allocated to staff should not conflict with their assignment to a
+particular organisational unit. It should be ensured that, especially when granting access rights in conjunction with role models, the segregation of duties is observed and
+conflicts of interest are avoided.
+
+3 `The IT systems shall be tested before their first use and after any material
+changes and approved by both the responsible organisational unit staff
+and IT staff`. To this end, `a standard process of development, testing, approval and implementation in the production processes shall be established`. The production and testing environments shall be segregated.
+
+**Changes to IT systems**
+The assessment of the materiality of changes shall be based not on the
+extent of changes but on the impact they may have on the functioning of
+the IT system concerned.
+
+**Approval by IT staff and organisational unit staff**
+The approval process carried out by the staff of the organisational unit and
+IT staff should focus on the suitability and appropriateness of the IT systems
+for the institution’s specific situation. Third-party certifications may be
+taken into account in the approval process but cannot substitute it entirely.
+
+4 `In the case of IT risks`, appropriate monitoring and management processes
+shall be set up, comprising, in particular, specification of IT risk criteria,
+identification of IT risks, determination of the required level of protection,
+derivation of protective measures for IT operations and specification of
+corresponding measures for risk handling and mitigation. For software procurement, the associated risks shall be appropriately assessed.
+
+5 The requirements of AT 7.2 `shall also be observed when using applications
+developed or run by staff belonging to the organisational units (end-user computing, EUC)`, in line with the criticality of the business processes supported and the importance of the applications for these processes.
+Measures to safeguard data security shall be tailored to the protection requirements of the processed data.
+
+### AT 8 Adjustment processes
+#### AT 8.1 New product process
+
+1 Each institution `shall have a sound understanding of the business activities
+it conducts`. `It shall decide on a strategic plan before commencing business
+activities involving new products or new markets (including new distribution channels)`. The strategic plan shall be based on the analysis of the
+riskiness of these new business activities and their impact on the overall
+risk profile. The strategic plan shall also outline the resulting material consequences for risk management. 
+
+**Contents of the strategic plan**
+The consequences outlined in the strategic plan should include those relating to organisation, staffing, necessary modifications to the IT systems and
+the methods of assessing the associated risks as well as any legal implications (in accounting law, tax law etc) where they are of material importance.
+
+2 The institution `shall maintain a catalogue of the products and markets that the business activities will involve`. It shall check at suitable intervals whether the products are
+still in use. Products that the business activity has not involved for an extended period
+of time shall be flagged. This shall not relate to the run-down of positions. The runoff or continued management of exposures in the portfolio shall not constitute product use. Before business activities involving flagged products are resumed, confirmation of the continued existence of the business processes in place at the time of the
+last transaction shall be obtained from the organisational units involved in the operational processes. If changes have occurred, a check shall be carried out to determine
+whether the new product process needs to be followed again.
