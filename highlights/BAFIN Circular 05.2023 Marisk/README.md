@@ -8,5 +8,10 @@ In principle, at least the following risks shall be considered material:
 - c) liquidity risk, and
 - d) `operational risk.`
 
-  
 The risk concentrations associated with material risks shall likewise be taken into account. Appropriate arrangements shall be made for any risks which are not considered material.
+
+2. In the context of the risk inventory, `the institution shall examine which risks may materially impair its financial position (including its capital resources), financial performance or liquidity position.`The risk inventory should not focus exclusively on the impact on the institution’s accounting or on *de jure* views`.
+
+**Holistic risk inventory** 
+
+The risk inventory shall also take account of risks arising from off-balance-sheet entities (eg risks from special-purpose entities not subject to consolidation). Depending on the institution’s specific overall risk profile, other risks, such as reputational risks, should be considered material, where appropriate.
