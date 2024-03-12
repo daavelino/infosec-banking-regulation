@@ -117,6 +117,10 @@
 - [Critical Infrastructure Regulation (KritisV)](https://www.gesetze-im-internet.de/bsi-kritisv/): If a bank is classified as a critical infrastructure provider, it is subject to additional security requirements under this regulation.
   - [Criteria to classify as a critical infrastructure provider](https://www.openkritis.de/it-sicherheitsgesetz/sektor_finanz-versicherungswesen.html)
 - [BSI-Gesetz-BSIG (Gesetz über das Bundesamt für Sicherheit in der Informationstechnik)](https://www.bsi.bund.de/DE/Das-BSI/Auftrag/Gesetze-und-Verordnungen/BSI-Gesetz/bsi-gesetz_node.html)
+  - In particulare the Section 8a 
+- [Geldwäschegesetz (Money Laundering Act)](https://www.gesetze-im-internet.de/gwg_2017/)
+  - Part 4 Transparency Register
+    - Section 18 Establishment of the transparency register and the registrar entity. (5) The registrar entity establishes an information security concept for the transparency register, from which the technical and organisational measures taken to protect data are derived.
 
 ## BAFin circulars
 
