@@ -38,7 +38,8 @@
 
 - [REGULATION (EU) 2022/2554, on digital operational resilience for the financial sector](https://eur-lex.europa.eu/eli/reg/2022/2554/oj): Requirements concerning the security the information and communication technology (ICT) supporting the business processes of financial entities.
 
-- [Directive (EU) 2022/2555, on measures for a high common level of cybersecurity across the Union](https://eur-lex.europa.eu/eli/dir/2022/2555/oj): NIS 2 defines cybersecurity risk-management measures and reporting obligations for essential and important entities (see Article 3 for the definition of essential and important entities). 
+- [Directive (EU) 2022/2555, on measures for a high common level of cybersecurity across the Union](https://eur-lex.europa.eu/eli/dir/2022/2555/oj): amending Regulation (EU) No 910/2014 and Directive (EU) 2018/1972, and **repealing** Directive (EU) 2016/1148 (NIS 2 Directive)
+  - [Highlights](highlights/DIRECTIVE (EU) 2022.2555/README.md).
 
 - [Directive (EU) 2022/2557, on the resilience of critical entities](https://eur-lex.europa.eu/eli/dir/2022/2557/oj): 
   - Art 6. "Member State shall identify the critical entities for the sectors and subsectors set out in the Annex." [form Juli 2023, *Finanz und Versicherung* are considered critial entities](https://www.openkritis.de/it-sicherheitsgesetz/kritis-dachgesetz-sicherheitsgesetz-3-0.html)
